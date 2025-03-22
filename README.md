@@ -25,12 +25,7 @@ A console app that reads a customizable `grid.txt` file (`0 = free`, `1 = wall`)
 
 #### 📊 Complexity Reports
 
-Performance measured in terms of vertex/edge operations:
-
-- [`report-bfs-20240115-013243`](./report-bfs-20240115-013243.html)
-- [`report-bfs-20240115-015524`](./report-bfs-20240115-015524.html)
-- [`report-bfs-20240115-051159`](./report-bfs-20240115-051159.html)
-
+Performance measured in terms of vertex/edge operations.
 
 ### `graph-algos/` – DFS, Tarjan, Topological Sort on Directed Graphs
 
@@ -46,9 +41,7 @@ A C++ app that generates and analyzes directed graphs using classic and advanced
 
 #### 📊 Complexity Reports
 
-Generated using custom profiler:
-
-- [`report-DFS-20240110-010423`](./report-DFS-20240110-010423.html)
+Generated using custom profiler.
 
 
 ## 🚀 How to Run
